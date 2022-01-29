@@ -1,0 +1,2 @@
+###_|IBS|
+z_ibs_eft_installed_core = { set_global_flag = z_ibs_installed }
